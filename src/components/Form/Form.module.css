@@ -1,0 +1,42 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid grey;
+  align-items: end;
+}
+
+.labels {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-right: auto;
+  width: 300px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 5px;
+}
+
+.input {
+  margin-left: 10px;
+  margin: 5px;
+  width: 100%;
+}
+
+.button {
+  display: block;
+  width: 100px;
+  padding: 5px;
+  margin: 10px auto;
+}
+
+.button:hover,
+.button:focus {
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,14 @@
+.filter {
+  display: block;
+  margin-top: 10px;
+  margin-top: 10px;
+  margin-left: 120px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.input {
+  display: block;
+  margin: 5px;
+  width: 200px;
+}
